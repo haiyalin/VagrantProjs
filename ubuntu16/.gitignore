@@ -1,0 +1,11 @@
+# no .a , .b, .bak , *~ files
+*.a
+*.b
+*.bak
+*.tmp
+*~
+tmp/
+TODO/
+*ubuntu-xenial*
+.vagrant/
+*.log
